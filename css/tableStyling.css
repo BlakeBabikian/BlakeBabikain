@@ -1,0 +1,26 @@
+/* styles.css */
+body {
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: navy;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: cornflowerblue;
+}
+
+table, th, td {
+    border: 1px solid black;
+
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
