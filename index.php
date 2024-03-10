@@ -74,7 +74,7 @@
         <h3 class="w3-center">CS 380 Code</h3>
         <hr>
         <div class="w3-third">
-            <a href="https://webdev.bentley.edu/bbabikian/tech_support/index.php" target="_blank">
+            <a href="tech_support/index.php" target="_blank">
                 <img src="images/homePage/techSupport.png" alt="Tech support logo" style="width:100%"></a>
             <h3>Tech Support Homepage</h3>
             <h5>Assignment 3</h5>
@@ -111,7 +111,7 @@
             <p>PHP HTML SQL Table</p>
         </div>
         <div class="w3-third">
-            <a href="https://webdev.bentley.edu/bbabikian/Assign1/index.html" target="_blank">
+            <a href="/Assign1/index.html" target="_blank">
                 <img src="images/homePage/html.png" alt="HTML logo" style="width:100%"></a>
             <h3>My First Homepage</h3>
             <h5>Assignment 1</h5>
@@ -123,7 +123,7 @@
         <h3 class="w3-center">Other Course Work</h3>
         <hr>
         <div class="w3-quarter">
-            <a href="https://webdev.bentley.edu/bbabikian/Assign1/index.html" target="_blank">
+            <a href="https://web.bentley.edu/bbabikian/index.html" target="_blank">
                 <img src="images/homePage/html.png" alt="HTML logo" style="width:100%"></a>
             <h3>My First Homepage</h3>
             <h5>Assignment 1</h5>
@@ -144,10 +144,11 @@
             <p>Complete company website</p>
         </div>
         <div class="w3-quarter">
-            <img src="images/homePage/construction.png" alt="Construction" style="width:100%">
-            <h3>This slot is empty</h3>
-            <h5>Nothing yet</h5>
-            <p>Content Will Added Soon</p>
+            <a href="files/Midterm.pdf" target="_blank">
+                <img src="images/homePage/creditCardFraud.png" alt="Fraud" style="width:100%"></a>
+            <h3>MA 346 Midterm</h3>
+            <h5>Data Science</h5>
+            <p>Credit Card Fraud Report</p>
         </div>
     </div>
     <div id="PersonalProject"></div>
