@@ -63,7 +63,7 @@
         </tbody>
     </table>
     <br>
-    <a href="https://webdev.bentley.edu/bbabikian">Click here to go home</a>
+    <a href="index.php">Click here to go home</a>
 </div>
 </body>
 </html>

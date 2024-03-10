@@ -46,7 +46,7 @@
         </tbody>
     </table>
     <br>
-    <a href="index.html">Click here to go home</a>
+    <a href="index.php">Click here to go home</a>
 </div>
 </body>
 </html>

@@ -60,7 +60,7 @@
     </table>
     <br>
     <br>
-    <a href="index.html"><h4>Click to return to the homepage</h4></a>
+    <a href="index.php"><h4>Click to return to the homepage</h4></a>
 </div>
 </body>
 </html>
