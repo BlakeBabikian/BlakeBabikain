@@ -168,7 +168,7 @@
             data by comparing it to the hash and verifying that new hashes match the next chain link's old hash. This
             design ensures data integrity and security within the banking app.</p>
         <div class="w3-third">
-            <a href="https://hash-wallet.herokuapp.com" target="_blank">
+            <a href="https://www.hashwallet.digital" target="_blank">
                 <img src="images/homePage/computer.png" alt="Image of computer" style="width:100%"></a>
             <h3>Web Application</h3>
             <h5>Hash-Wallet</h5>
