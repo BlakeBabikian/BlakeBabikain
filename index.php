@@ -62,12 +62,45 @@
     <div class="w3-row-padding w3-padding-16 w3-center">
         <h3 class="w3-center">About The Webpage</h3>
         <hr>
-        <p>Hey there! I'm currently a senior at Bentley University, where I'm majoring in Computer Information Systems
-            and minoring in Economics. This webpage is a hub to showcase for my code in CS 380, the Multitiered
-            Application Development course. Here, I've linked some of the course work I've worked on during the
-            semester. You'll also find links to some of my work from other classes. I've thrown in a personal project
-            that I'm pretty proud of. So, take a look around and get to know my coding journey and coursework! P.S. I
-            don't actually talk like that, I had ChatGPT write me a bio, and even this I had to tone back haha.</p>
+        <div class="w3-third">
+            <a href="files/Resume.pdf" target="_blank">
+                <img src="images/homePage/headshot.JPG" alt="Tech support logo" style="width:100%"></a>
+            <h3>Attached Document</h3>
+            <h5>Resume</h5>
+            <a href="https://www.linkedin.com/in/blake-babikian-730961207"
+               target="_blank">LinkedIn</a>
+        </div>
+        <p>
+            I am Blake Aram Babikian, currently navigating my academic journey as a candidate for a Bachelor of Science 
+            in Computer Information Systems at Bentley University, with a minor in Business Economics. My academic 
+            endeavors have been recognized through my inclusion on the President's list and Dean's list, reflecting a 
+            major GPA of 3.54. My experience extends beyond local boundaries, having enriched my global perspective 
+            through a study abroad program at Bond University in Australia.
+        </p>
+        <br>
+        <p>
+            In my professional sphere, I've had the privilege of contributing as an Industry Engagement Intern at 
+            Wolters Kluwer, a position I secured among 30 candidates. Here, I played a critical role within a dynamic 
+            team, leading to the successful development and deployment of an innovative automation software solution 
+            that significantly enhanced operational efficiency. My role not only allowed me to demonstrate my technical 
+            skills but also to foster strong teamwork and agile project management abilities.
+        </p>
+        <br>
+        <p>
+            At the Bentley University CIS Sandbox, I serve as a tutor and technology advocate, where I mentor around 20 
+            students weekly. This role has solidified my reputation as a dependable technology resource, assisting both 
+            undergraduate and graduate students with computer science coursework and software challenges. My technical 
+            repertoire is comprehensive, spanning programming languages like Python, Java, and SQL, and extending to 
+            frameworks and tools such as Flask, Selenium, and Docker. My projects, such as the blockchain-inspired 
+            Hash Wallet and the web app developed for tech support, showcase my ability to independently design and 
+            implement complex solutions.
+        </p>
+        <br>
+        <p>
+            My journey so far has been a blend of academic achievement, professional growth, and a deep commitment to 
+            leveraging technology to solve real-world problems. I am excited about the opportunities that lie ahead and 
+            am eager to apply my skills and knowledge to new challenges.
+        </p>
     </div>
     <!-- First Photo Grid-->
     <div class="w3-row-padding w3-padding-16 w3-center">
@@ -194,14 +227,9 @@
     <!-- Footer -->
     <footer>
         <div class="w3-left w3-serif">
-            <h3 style="text-align: left; padding-left: 15px">Contact</h3>
-            <ul style="list-style-type: none;">
-                <li style="text-align: left">Blake Babikian</li>
-                <Li style="text-align: left">BlakeBabikian@gmail.com</Li>
-                <li style="text-align: left">+1 (978) 460 7731</li>
-                <li style="text-align: left"><a href="https://www.linkedin.com/in/blake-babikian-730961207"
-                                                target="_blank">LinkedIn</a></li>
-            </ul>
+            <h3 style="text-align: left">Contact:</h3>
+            <h4>Blake Babikian  -  BlakeBabikian@gmail.com  -  +1 (978) 460 7731  -  <a href="https://www.linkedin.com/in/blake-babikian-730961207"
+                                                                                  target="_blank">LinkedIn</a></h4>
         </div>
     </footer>
 
