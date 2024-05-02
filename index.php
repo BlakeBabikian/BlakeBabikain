@@ -223,7 +223,7 @@
         </div>
     </div>
     <hr>
-
+    <a href="CS360/index.php">Here for CS 360</a>
     <!-- Footer -->
     <footer>
         <div class="w3-left w3-serif">
